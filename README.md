@@ -1,1 +1,2 @@
 It's our project. In my repositories you can check the source-code. It's social network, like Pinterest. Unfortunately it's unavaliable now, because our free-trial on Azure-websites is over, and we have to pay for hosting our API.
+Front-end is done by me. And back-end is done by my teammate Alexandr. Here's the source of backend https://github.com/oleksandrcherevkov/PhotoAppApi, and here's the source-code of Frontend
